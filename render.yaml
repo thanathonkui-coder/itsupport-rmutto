@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: itsupport-rmutto
+    runtime: php
+    plan: free
+    region: singapore
